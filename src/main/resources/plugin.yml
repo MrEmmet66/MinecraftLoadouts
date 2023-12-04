@@ -1,0 +1,4 @@
+name: MbfLoadout
+version: '${version}'
+main: org.mbf.mbfloadout.MbfLoadout
+api-version: '1.20'
